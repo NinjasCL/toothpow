@@ -1,0 +1,21 @@
+# ToothPow iOS Game
+
+This is a small game mainly used in parties. Made in 2012.
+The main objective is to destroy the teeth of the on screen character. 
+
+Each tooth can have a bomb. 
+
+If the bomb explodes you have to make a truth or dare.
+
+image:toothpow.gif[Tooth Pow iOS]
+
+## Credits
+
+- Camilo Castro: Game Design and Programming
+- Javier Campos: Animation Help
+- Ernesto Muñoz: Music
+- Luis Salas: Graphics
+
+++++
+Made with <i class="fa fa-heart">&#9829;</i> by <a href="http://ninjas.cl" target="_blank">Ninjas.cl</a>.
+++++
